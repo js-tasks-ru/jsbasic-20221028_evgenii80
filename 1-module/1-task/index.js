@@ -10,7 +10,3 @@ function factorial(n) {
 
   return result;
 }
-
-let meaning = prompt ('введите значение');
-
-alert(`результат ${factorial(+meaning)}`);
